@@ -1,0 +1,5 @@
+# Turn on the RewriteEngine
+RewriteEngine On
+
+# Rules
+RewriteRule .? index.php
